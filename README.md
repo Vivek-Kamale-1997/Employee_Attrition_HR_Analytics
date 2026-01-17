@@ -1,5 +1,5 @@
 # Employee_Attrition_HR_Analytics
-This project is to show Employee Attrition for HR Analytics<br<
+This project is to show Employee Attrition for HR Analytics<br>
 dataset: employee_attrition.csv<br>
 
 Covers topics:<br>
