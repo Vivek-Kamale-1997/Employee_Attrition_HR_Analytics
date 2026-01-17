@@ -1,8 +1,8 @@
 # Employee_Attrition_HR_Analytics
 This project is to show Employee Attrition for HR Analytics
 
-Covers topics:
-1] HR core understanding
+Covers topics:<br>
+1] HR core understanding<br>
 2] Python libraries like:
 Numpy
 Pandas
