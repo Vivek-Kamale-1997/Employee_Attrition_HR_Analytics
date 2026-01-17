@@ -7,7 +7,7 @@ Covers topics:
 Numpy
 Pandas
 Matplotlib
-Seaborn
+Seaborn<br>
 
 3] 17 python codes for analytics based on Employee Attrition
 4] Data cleaning
