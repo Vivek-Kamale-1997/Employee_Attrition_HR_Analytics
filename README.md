@@ -9,7 +9,7 @@ Pandas
 Matplotlib
 Seaborn<br>
 
-3] 17 python codes for analytics based on Employee Attrition
-4] Data cleaning
-5] Data Visualization
+3] 17 python codes for analytics based on Employee Attrition<br>
+4] Data cleaning<br>
+5] Data Visualization<br>
 
